@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 
 :root {
-  --primary-color: #f9ff00;
+  --primary-color: ##FFFF00;
   --primary-color-dark: #e91a1a;
   --secondary-color: #faf9fe;
   --text-dark: #0f172a;
@@ -51,7 +51,7 @@ img {
     font-weight: 600;
     text-transform: uppercase;
 
-    background: linear-gradient(45deg, #f9ff00, #c9c6c6, #d6cb99,#ca9b54);
+    background: linear-gradient(45deg, #FFFF00, #c9c6c6, #d6cb99,#ca9b54);
     background-size: 400% 100%;
     animation: degrade 10s linear infinite alternate;
 
@@ -122,7 +122,7 @@ body {
 }
 
 .header {
-  background-color:#f9ff00;
+  background-color:#FFFF00;
 }
 
 nav {
@@ -138,7 +138,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color:#fdff00;
+  background-color:#FFFF00;
 }
 
 .nav__logo a {
@@ -175,7 +175,7 @@ nav {
   justify-content: center;
   flex-direction: column;
   gap: 2rem;
-  background-color:#fdff00;
+  background-color:#FFFF00;
   transition: 0.5s;
   z-index: -1;
   transform: translateY(-100%);
@@ -279,7 +279,7 @@ color: #f70404;
 }
 
 .header__content button:hover {
-  background-color:#f9ff00;
+  background-color:#FFFF00;
 }
 
 @media (min-width: 640px) {
@@ -348,7 +348,7 @@ color: #f70404;
 
 /*==============================SERVIÇOS==============================*/
 .servicos{
-  border-bottom: 1px solid #f9ff00;
+  border-bottom: 1px solid #FFFF00;
   text-align: center;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   padding: 2%;
@@ -638,7 +638,7 @@ background-color: #ffffff;
 }
 
 .section-header h2 {
-  color: #f9ff00;
+  color: #FFFF00;
   font-weight: bold;
   font-size: 3em;
   margin-bottom: 20px;
@@ -682,7 +682,7 @@ background-color: #ffffff;
 }
 
 .contact-info-content h4 {
-  color: #f9ff00;
+  color: #FFFF00;
   font-size: 1.4em;
   margin-bottom: 5px;
 }
@@ -747,7 +747,7 @@ background-color: #ffffff;
 .contact-form .input-box input[type="submit"]
 {
   width: 100%;
-  background: #f9ff00;
+  background: #FFFF00;
   color: #FFF;
   border: none;
   cursor: pointer;
@@ -760,7 +760,7 @@ background-color: #ffffff;
 .contact-form .input-box input[type="submit"]:hover
 {
   background: #FFF;
-  color: #f9ff00;
+  color: #FFFF00;
 }
 
 @media (max-width: 991px) {
